@@ -1,9 +1,10 @@
 import requests
+import config
 import time
 from sqlalchemy import create_engine
 import logging
 
-WEBHOOK_URL = "https://hooks.slack.com/services/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" 
+WEBHOOK_URL = config.WEBHOOK_URL # make sure you have a config.py file with a webhook for slack!
 logging.basicConfig(level='DEBUG', filename='slacked_tweets.txt', 
                     format='%(asctime)s | THESE TWEETS WERE ALREADY SLACKED: %(message)s',
                     force=True)
@@ -27,9 +28,9 @@ while len(slacked_tweets) < 50:
 
     for i, tweet in enumerate(happy_tweets):
         if tweet[0] not in slacked_tweets:
-            text = '\U0001F603' * 15 + '\n'
+            text = ' \U0001F603 ' * 15 + '\n'
             text += 'There is a new HAPPY tweet about vanilla:\n\n\n' + tweet[0] + '\n\n\nwith a sentiment value of ' + str(happy_sentiments[i][0])
-            text += '\n' + '\U0001F603' * 15
+            text += '\n' + ' \U0001F603 ' * 15
             json_bot = {'text': text}
             requests.post(url=WEBHOOK_URL, json = json_bot)
             slacked_tweets.append(tweet[0])
@@ -52,9 +53,9 @@ while len(slacked_tweets) < 50:
 
     for i, tweet in enumerate(sad_tweets):
         if tweet[0] not in slacked_tweets:
-            text = '\U00002639' * 15 + '\n'
+            text = ' \U00002639 ' * 15 + '\n'
             text += 'There is a new SAD tweet about vanilla:\n\n\n' + tweet[0] + '\n\n\nwith a sentiment value of ' + str(sad_sentiments[i][0])
-            text += '\n' + '\U00002639' * 15
+            text += '\n' + ' \U00002639 ' * 15
             json_bot = {'text': text}
             requests.post(url=WEBHOOK_URL, json = json_bot)
             slacked_tweets.append(tweet[0])
