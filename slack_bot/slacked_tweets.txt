@@ -1,0 +1,340 @@
+2021-04-23 13:39:37,179 | THESE TWEETS WERE ALREADY SLACKED: select version()
+2021-04-23 13:39:37,182 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:39:37,189 | THESE TWEETS WERE ALREADY SLACKED: select current_schema()
+2021-04-23 13:39:37,190 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:39:37,193 | THESE TWEETS WERE ALREADY SLACKED: show standard_conforming_strings
+2021-04-23 13:39:37,195 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:39:37,202 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 13:39:37,208 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:39:37,213 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 13:39:37,215 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:39:37,232 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 13:39:37,697 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 13:40:37,690 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 13:40:37,693 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:40:37,700 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 13:40:37,703 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:40:37,716 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 13:40:38,212 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 13:40:38,221 | THESE TWEETS WERE ALREADY SLACKED: ['RT @ArtSoritha: Finally!!!!  IS HEREEE AAA 💕💕💕🌸💗🐾 The cosplay of Vanilla /nekopara vl4 🌸 from @uwowocosplay  ✨😢 is so lovely, I really love…', 'Abang bought chocolate ice-cream for himself but still stealing my vanilla ice-cream huh??? Aiyo']
+2021-04-23 13:45:37,995 | THESE TWEETS WERE ALREADY SLACKED: select version()
+2021-04-23 13:45:37,997 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:45:38,001 | THESE TWEETS WERE ALREADY SLACKED: select current_schema()
+2021-04-23 13:45:38,007 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:45:38,012 | THESE TWEETS WERE ALREADY SLACKED: show standard_conforming_strings
+2021-04-23 13:45:38,014 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:45:38,022 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 13:45:38,025 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:45:38,034 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 13:45:38,037 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:45:38,049 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 13:45:38,432 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 13:46:38,432 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 13:46:38,434 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:46:38,438 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 13:46:38,439 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:46:38,445 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 13:46:38,837 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 13:46:38,842 | THESE TWEETS WERE ALREADY SLACKED: ['RT @ArtSoritha: Finally!!!!  IS HEREEE AAA 💕💕💕🌸💗🐾 The cosplay of Vanilla /nekopara vl4 🌸 from @uwowocosplay  ✨😢 is so lovely, I really love…', 'Abang bought chocolate ice-cream for himself but still stealing my vanilla ice-cream huh??? Aiyo', "@Carters_Corner_ Sometimes my kinks slip here, and all my friends are pure vanilla beans 😅 we're all adults but um. No. 😂💖", 'RT @MissWissyMissy: Heading to my vanilla job early because you losers are being boring as hell today 😴 silently send or gtfo of my page…']
+2021-04-23 13:51:38,566 | THESE TWEETS WERE ALREADY SLACKED: select version()
+2021-04-23 13:51:38,568 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:51:38,572 | THESE TWEETS WERE ALREADY SLACKED: select current_schema()
+2021-04-23 13:51:38,575 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:51:38,579 | THESE TWEETS WERE ALREADY SLACKED: show standard_conforming_strings
+2021-04-23 13:51:38,580 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:51:38,583 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 13:51:38,585 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:51:38,590 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 13:51:38,594 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:51:38,607 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 13:51:38,994 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 13:52:38,943 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 13:52:38,945 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:52:38,950 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 13:52:38,952 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:52:38,958 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 13:52:39,336 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 13:52:39,343 | THESE TWEETS WERE ALREADY SLACKED: ['RT @ArtSoritha: Finally!!!!  IS HEREEE AAA 💕💕💕🌸💗🐾 The cosplay of Vanilla /nekopara vl4 🌸 from @uwowocosplay  ✨😢 is so lovely, I really love…', 'Abang bought chocolate ice-cream for himself but still stealing my vanilla ice-cream huh??? Aiyo', "@Carters_Corner_ Sometimes my kinks slip here, and all my friends are pure vanilla beans 😅 we're all adults but um. No. 😂💖", 'RT @MissWissyMissy: Heading to my vanilla job early because you losers are being boring as hell today 😴 silently send or gtfo of my page…', '@Rechi_C A moment of seeing Vector and Vanilla being together. I can’t wait to see them as a family. Hopefully with their son Argyle. 🥰💕', '@rialouiehater 3 PURE VANILLA COOKIE SOULSTONES BUT NO PURE VANILLA COOKIE!!!!!!!!']
+2021-04-23 13:57:39,122 | THESE TWEETS WERE ALREADY SLACKED: select version()
+2021-04-23 13:57:39,126 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:57:39,130 | THESE TWEETS WERE ALREADY SLACKED: select current_schema()
+2021-04-23 13:57:39,132 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:57:39,137 | THESE TWEETS WERE ALREADY SLACKED: show standard_conforming_strings
+2021-04-23 13:57:39,139 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:57:39,143 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 13:57:39,146 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:57:39,152 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 13:57:39,155 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:57:39,165 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 13:57:39,556 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 13:58:39,542 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 13:58:39,544 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:58:39,549 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 13:58:39,550 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 13:58:39,556 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 13:58:39,933 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 13:58:39,938 | THESE TWEETS WERE ALREADY SLACKED: ['RT @ArtSoritha: Finally!!!!  IS HEREEE AAA 💕💕💕🌸💗🐾 The cosplay of Vanilla /nekopara vl4 🌸 from @uwowocosplay  ✨😢 is so lovely, I really love…', 'Abang bought chocolate ice-cream for himself but still stealing my vanilla ice-cream huh??? Aiyo', "@Carters_Corner_ Sometimes my kinks slip here, and all my friends are pure vanilla beans 😅 we're all adults but um. No. 😂💖", 'RT @MissWissyMissy: Heading to my vanilla job early because you losers are being boring as hell today 😴 silently send or gtfo of my page…', '@Rechi_C A moment of seeing Vector and Vanilla being together. I can’t wait to see them as a family. Hopefully with their son Argyle. 🥰💕', '@rialouiehater 3 PURE VANILLA COOKIE SOULSTONES BUT NO PURE VANILLA COOKIE!!!!!!!!', 'RT @thedivinefem_: Vanilla me vs sex work me 😈💋💜 https://t.co/fAgWMgGc5d', '@XcupiddreamingX it’s literally just female penetration it’s in no way kinky it’s vanilla as fuck']
+2021-04-23 14:21:07,459 | THESE TWEETS WERE ALREADY SLACKED: select version()
+2021-04-23 14:21:07,481 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:21:07,508 | THESE TWEETS WERE ALREADY SLACKED: select current_schema()
+2021-04-23 14:21:07,524 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:21:07,582 | THESE TWEETS WERE ALREADY SLACKED: show standard_conforming_strings
+2021-04-23 14:21:07,626 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:21:07,653 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 14:21:07,664 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:21:07,693 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 14:21:07,696 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:21:07,919 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 14:21:09,141 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 14:22:09,181 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 14:22:09,189 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:22:09,203 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 14:22:09,205 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:22:09,216 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 14:22:09,722 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 14:22:09,746 | THESE TWEETS WERE ALREADY SLACKED: ['RT @ArtSoritha: Finally!!!!  IS HEREEE AAA 💕💕💕🌸💗🐾 The cosplay of Vanilla /nekopara vl4 🌸 from @uwowocosplay  ✨😢 is so lovely, I really love…', '#vanillavectors #hifelipeitspaul i HATE vanilla 😡😡😡😡😡😡😡😡😡 HATE ANGER HATE DEATH DESTRUCTION']
+2021-04-23 14:27:09,516 | THESE TWEETS WERE ALREADY SLACKED: select version()
+2021-04-23 14:27:09,525 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:27:09,531 | THESE TWEETS WERE ALREADY SLACKED: select current_schema()
+2021-04-23 14:27:09,534 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:27:09,543 | THESE TWEETS WERE ALREADY SLACKED: show standard_conforming_strings
+2021-04-23 14:27:09,547 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:27:09,553 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 14:27:09,563 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:27:09,585 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 14:27:09,590 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:27:09,606 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 14:27:10,039 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 14:28:10,041 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 14:28:10,044 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:28:10,050 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 14:28:10,051 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:28:10,057 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 14:28:10,477 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 14:28:10,486 | THESE TWEETS WERE ALREADY SLACKED: ['RT @ArtSoritha: Finally!!!!  IS HEREEE AAA 💕💕💕🌸💗🐾 The cosplay of Vanilla /nekopara vl4 🌸 from @uwowocosplay  ✨😢 is so lovely, I really love…', '#vanillavectors #hifelipeitspaul i HATE vanilla 😡😡😡😡😡😡😡😡😡 HATE ANGER HATE DEATH DESTRUCTION', 'RT @Riqueza_cakes: I love big cakes🥰🥰🥰🥰🥰\n🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰\nInside of this cake is layers of redvelvet ,vanilla n chocolate frosted with butterc…', 'RT @MissWissyMissy: Heading to my vanilla job early because you losers are being boring as hell today 😴 silently send or gtfo of my page…']
+2021-04-23 14:33:10,229 | THESE TWEETS WERE ALREADY SLACKED: select version()
+2021-04-23 14:33:10,235 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:33:10,238 | THESE TWEETS WERE ALREADY SLACKED: select current_schema()
+2021-04-23 14:33:10,240 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:33:10,242 | THESE TWEETS WERE ALREADY SLACKED: show standard_conforming_strings
+2021-04-23 14:33:10,244 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:33:10,248 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 14:33:10,249 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:33:10,255 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 14:33:10,257 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:33:10,266 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 14:33:10,694 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 14:34:10,648 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 14:34:10,652 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:34:10,661 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 14:34:10,664 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:34:10,674 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 14:34:11,099 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 14:34:11,106 | THESE TWEETS WERE ALREADY SLACKED: ['RT @ArtSoritha: Finally!!!!  IS HEREEE AAA 💕💕💕🌸💗🐾 The cosplay of Vanilla /nekopara vl4 🌸 from @uwowocosplay  ✨😢 is so lovely, I really love…', '#vanillavectors #hifelipeitspaul i HATE vanilla 😡😡😡😡😡😡😡😡😡 HATE ANGER HATE DEATH DESTRUCTION', 'RT @Riqueza_cakes: I love big cakes🥰🥰🥰🥰🥰\n🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰\nInside of this cake is layers of redvelvet ,vanilla n chocolate frosted with butterc…', 'RT @MissWissyMissy: Heading to my vanilla job early because you losers are being boring as hell today 😴 silently send or gtfo of my page…', 'Vanilla Vanilla \nLove \nAwesome \nHappy \nBest', 'Abang bought chocolate ice-cream for himself but still stealing my vanilla ice-cream huh??? Aiyo']
+2021-04-23 14:39:10,897 | THESE TWEETS WERE ALREADY SLACKED: select version()
+2021-04-23 14:39:10,903 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:39:10,911 | THESE TWEETS WERE ALREADY SLACKED: select current_schema()
+2021-04-23 14:39:10,916 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:39:10,922 | THESE TWEETS WERE ALREADY SLACKED: show standard_conforming_strings
+2021-04-23 14:39:10,925 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:39:10,930 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 14:39:10,936 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:39:10,950 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 14:39:10,954 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:39:10,965 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 14:39:11,401 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 14:40:11,401 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 14:40:11,409 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:40:11,422 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 14:40:11,426 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:40:11,441 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 14:40:11,975 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 14:40:11,993 | THESE TWEETS WERE ALREADY SLACKED: ['RT @ArtSoritha: Finally!!!!  IS HEREEE AAA 💕💕💕🌸💗🐾 The cosplay of Vanilla /nekopara vl4 🌸 from @uwowocosplay  ✨😢 is so lovely, I really love…', '#vanillavectors #hifelipeitspaul i HATE vanilla 😡😡😡😡😡😡😡😡😡 HATE ANGER HATE DEATH DESTRUCTION', 'RT @Riqueza_cakes: I love big cakes🥰🥰🥰🥰🥰\n🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰\nInside of this cake is layers of redvelvet ,vanilla n chocolate frosted with butterc…', 'RT @MissWissyMissy: Heading to my vanilla job early because you losers are being boring as hell today 😴 silently send or gtfo of my page…', 'Vanilla Vanilla \nLove \nAwesome \nHappy \nBest', 'Abang bought chocolate ice-cream for himself but still stealing my vanilla ice-cream huh??? Aiyo', "@Carters_Corner_ Sometimes my kinks slip here, and all my friends are pure vanilla beans 😅 we're all adults but um. No. 😂💖", '@rialouiehater 3 PURE VANILLA COOKIE SOULSTONES BUT NO PURE VANILLA COOKIE!!!!!!!!']
+2021-04-23 14:45:11,813 | THESE TWEETS WERE ALREADY SLACKED: select version()
+2021-04-23 14:45:11,815 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:45:11,820 | THESE TWEETS WERE ALREADY SLACKED: select current_schema()
+2021-04-23 14:45:11,822 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:45:11,833 | THESE TWEETS WERE ALREADY SLACKED: show standard_conforming_strings
+2021-04-23 14:45:11,837 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:45:11,851 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 14:45:11,852 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:45:11,862 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 14:45:11,864 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:45:11,879 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 14:45:12,289 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 14:46:12,279 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 14:46:12,281 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:46:12,288 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 14:46:12,290 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:46:12,298 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 14:46:12,733 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 14:46:12,742 | THESE TWEETS WERE ALREADY SLACKED: ['RT @ArtSoritha: Finally!!!!  IS HEREEE AAA 💕💕💕🌸💗🐾 The cosplay of Vanilla /nekopara vl4 🌸 from @uwowocosplay  ✨😢 is so lovely, I really love…', '#vanillavectors #hifelipeitspaul i HATE vanilla 😡😡😡😡😡😡😡😡😡 HATE ANGER HATE DEATH DESTRUCTION', 'RT @Riqueza_cakes: I love big cakes🥰🥰🥰🥰🥰\n🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰\nInside of this cake is layers of redvelvet ,vanilla n chocolate frosted with butterc…', 'RT @MissWissyMissy: Heading to my vanilla job early because you losers are being boring as hell today 😴 silently send or gtfo of my page…', 'Vanilla Vanilla \nLove \nAwesome \nHappy \nBest', 'Abang bought chocolate ice-cream for himself but still stealing my vanilla ice-cream huh??? Aiyo', "@Carters_Corner_ Sometimes my kinks slip here, and all my friends are pure vanilla beans 😅 we're all adults but um. No. 😂💖", '@rialouiehater 3 PURE VANILLA COOKIE SOULSTONES BUT NO PURE VANILLA COOKIE!!!!!!!!', '@Rechi_C A moment of seeing Vector and Vanilla being together. I can’t wait to see them as a family. Hopefully with their son Argyle. 🥰💕', '@XcupiddreamingX it’s literally just female penetration it’s in no way kinky it’s vanilla as fuck']
+2021-04-23 14:51:12,485 | THESE TWEETS WERE ALREADY SLACKED: select version()
+2021-04-23 14:51:12,491 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:51:12,495 | THESE TWEETS WERE ALREADY SLACKED: select current_schema()
+2021-04-23 14:51:12,497 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:51:12,501 | THESE TWEETS WERE ALREADY SLACKED: show standard_conforming_strings
+2021-04-23 14:51:12,504 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:51:12,506 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 14:51:12,508 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:51:12,513 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 14:51:12,516 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:51:12,522 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 14:51:12,950 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 14:52:12,898 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 14:52:12,901 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:52:12,911 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 14:52:12,913 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:52:12,921 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 14:52:13,302 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 14:52:13,308 | THESE TWEETS WERE ALREADY SLACKED: ['RT @ArtSoritha: Finally!!!!  IS HEREEE AAA 💕💕💕🌸💗🐾 The cosplay of Vanilla /nekopara vl4 🌸 from @uwowocosplay  ✨😢 is so lovely, I really love…', '#vanillavectors #hifelipeitspaul i HATE vanilla 😡😡😡😡😡😡😡😡😡 HATE ANGER HATE DEATH DESTRUCTION', 'RT @Riqueza_cakes: I love big cakes🥰🥰🥰🥰🥰\n🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰\nInside of this cake is layers of redvelvet ,vanilla n chocolate frosted with butterc…', 'RT @MissWissyMissy: Heading to my vanilla job early because you losers are being boring as hell today 😴 silently send or gtfo of my page…', 'Vanilla Vanilla \nLove \nAwesome \nHappy \nBest', 'Abang bought chocolate ice-cream for himself but still stealing my vanilla ice-cream huh??? Aiyo', "@Carters_Corner_ Sometimes my kinks slip here, and all my friends are pure vanilla beans 😅 we're all adults but um. No. 😂💖", '@rialouiehater 3 PURE VANILLA COOKIE SOULSTONES BUT NO PURE VANILLA COOKIE!!!!!!!!', '@Rechi_C A moment of seeing Vector and Vanilla being together. I can’t wait to see them as a family. Hopefully with their son Argyle. 🥰💕', '@XcupiddreamingX it’s literally just female penetration it’s in no way kinky it’s vanilla as fuck', '@Cheyrassic I used to buy vanilla but I found it too sweet  the unflavored  stuff is the best. I add it to plain Gr… https://t.co/Uf5TxfDvRV', 'cheese, anything but vanilla😭']
+2021-04-23 14:57:13,026 | THESE TWEETS WERE ALREADY SLACKED: select version()
+2021-04-23 14:57:13,028 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:57:13,032 | THESE TWEETS WERE ALREADY SLACKED: select current_schema()
+2021-04-23 14:57:13,034 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:57:13,038 | THESE TWEETS WERE ALREADY SLACKED: show standard_conforming_strings
+2021-04-23 14:57:13,040 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:57:13,045 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 14:57:13,048 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:57:13,057 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 14:57:13,059 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:57:13,071 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 14:57:13,491 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 14:58:13,490 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 14:58:13,493 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:58:13,501 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 14:58:13,503 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 14:58:13,509 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 14:58:13,900 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 14:58:13,905 | THESE TWEETS WERE ALREADY SLACKED: ['RT @ArtSoritha: Finally!!!!  IS HEREEE AAA 💕💕💕🌸💗🐾 The cosplay of Vanilla /nekopara vl4 🌸 from @uwowocosplay  ✨😢 is so lovely, I really love…', '#vanillavectors #hifelipeitspaul i HATE vanilla 😡😡😡😡😡😡😡😡😡 HATE ANGER HATE DEATH DESTRUCTION', 'RT @Riqueza_cakes: I love big cakes🥰🥰🥰🥰🥰\n🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰\nInside of this cake is layers of redvelvet ,vanilla n chocolate frosted with butterc…', 'RT @MissWissyMissy: Heading to my vanilla job early because you losers are being boring as hell today 😴 silently send or gtfo of my page…', 'Vanilla Vanilla \nLove \nAwesome \nHappy \nBest', 'Abang bought chocolate ice-cream for himself but still stealing my vanilla ice-cream huh??? Aiyo', "@Carters_Corner_ Sometimes my kinks slip here, and all my friends are pure vanilla beans 😅 we're all adults but um. No. 😂💖", '@rialouiehater 3 PURE VANILLA COOKIE SOULSTONES BUT NO PURE VANILLA COOKIE!!!!!!!!', '@Rechi_C A moment of seeing Vector and Vanilla being together. I can’t wait to see them as a family. Hopefully with their son Argyle. 🥰💕', '@XcupiddreamingX it’s literally just female penetration it’s in no way kinky it’s vanilla as fuck', '@Cheyrassic I used to buy vanilla but I found it too sweet  the unflavored  stuff is the best. I add it to plain Gr… https://t.co/Uf5TxfDvRV', 'cheese, anything but vanilla😭', 'Roasted chicory root with French vanilla creamer. \n\nMy @MariahCareymug came from my friend @tyronewebbjr 🥰\n\nShop he… https://t.co/7ji4d2dKhN', 'RT @Mistress_Mollie: I want contracts signed today! you know the idea of being in debt to Me is hotter than your boring vanilla life! not t…']
+2021-04-23 15:03:13,651 | THESE TWEETS WERE ALREADY SLACKED: select version()
+2021-04-23 15:03:13,655 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 15:03:13,659 | THESE TWEETS WERE ALREADY SLACKED: select current_schema()
+2021-04-23 15:03:13,662 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 15:03:13,667 | THESE TWEETS WERE ALREADY SLACKED: show standard_conforming_strings
+2021-04-23 15:03:13,670 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 15:03:13,673 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 15:03:13,675 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 15:03:13,682 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 15:03:13,685 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 15:03:13,696 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 15:03:14,096 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 15:04:14,076 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 15:04:14,078 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 15:04:14,087 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment ASC;
+    
+2021-04-23 15:04:14,089 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 15:04:14,098 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 15:04:14,479 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22
+2021-04-23 15:04:14,500 | THESE TWEETS WERE ALREADY SLACKED: ['RT @ArtSoritha: Finally!!!!  IS HEREEE AAA 💕💕💕🌸💗🐾 The cosplay of Vanilla /nekopara vl4 🌸 from @uwowocosplay  ✨😢 is so lovely, I really love…', '#vanillavectors #hifelipeitspaul i HATE vanilla 😡😡😡😡😡😡😡😡😡 HATE ANGER HATE DEATH DESTRUCTION', 'RT @Riqueza_cakes: I love big cakes🥰🥰🥰🥰🥰\n🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰\nInside of this cake is layers of redvelvet ,vanilla n chocolate frosted with butterc…', 'RT @MissWissyMissy: Heading to my vanilla job early because you losers are being boring as hell today 😴 silently send or gtfo of my page…', 'Vanilla Vanilla \nLove \nAwesome \nHappy \nBest', 'Abang bought chocolate ice-cream for himself but still stealing my vanilla ice-cream huh??? Aiyo', "@Carters_Corner_ Sometimes my kinks slip here, and all my friends are pure vanilla beans 😅 we're all adults but um. No. 😂💖", '@rialouiehater 3 PURE VANILLA COOKIE SOULSTONES BUT NO PURE VANILLA COOKIE!!!!!!!!', '@Rechi_C A moment of seeing Vector and Vanilla being together. I can’t wait to see them as a family. Hopefully with their son Argyle. 🥰💕', '@XcupiddreamingX it’s literally just female penetration it’s in no way kinky it’s vanilla as fuck', '@Cheyrassic I used to buy vanilla but I found it too sweet  the unflavored  stuff is the best. I add it to plain Gr… https://t.co/Uf5TxfDvRV', 'cheese, anything but vanilla😭', 'Roasted chicory root with French vanilla creamer. \n\nMy @MariahCareymug came from my friend @tyronewebbjr 🥰\n\nShop he… https://t.co/7ji4d2dKhN', 'RT @Mistress_Mollie: I want contracts signed today! you know the idea of being in debt to Me is hotter than your boring vanilla life! not t…', 'RT @thedivinefem_: Vanilla me vs sex work me 😈💋💜 https://t.co/fAgWMgGc5d', 'Legendary no-death run vanilla ! Mad quest is live! https://t.co/qUjFB1BJsJ']
+2021-04-23 15:09:14,221 | THESE TWEETS WERE ALREADY SLACKED: select version()
+2021-04-23 15:09:14,223 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 15:09:14,225 | THESE TWEETS WERE ALREADY SLACKED: select current_schema()
+2021-04-23 15:09:14,227 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 15:09:14,232 | THESE TWEETS WERE ALREADY SLACKED: show standard_conforming_strings
+2021-04-23 15:09:14,234 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 15:09:14,238 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT text FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 15:09:14,239 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 15:09:14,245 | THESE TWEETS WERE ALREADY SLACKED: 
+    SELECT sentiment FROM tweets ORDER BY sentiment DESC;
+    
+2021-04-23 15:09:14,247 | THESE TWEETS WERE ALREADY SLACKED: [raw sql] {}
+2021-04-23 15:09:14,254 | THESE TWEETS WERE ALREADY SLACKED: Starting new HTTPS connection (1): hooks.slack.com:443
+2021-04-23 15:09:14,654 | THESE TWEETS WERE ALREADY SLACKED: https://hooks.slack.com:443 "POST /services/T01QEFF043Y/B01USAYUZTR/SDnrEeZCpCGdFWPoqybXwqK8 HTTP/1.1" 200 22

@@ -1,0 +1,44 @@
+version: "3"
+
+services:
+
+    postgresdb:
+        image: postgres:12.6 # this is literally the name of the image on Dockerhub. 12.6 is the version I wish to install
+
+        ports: # port-mapping
+            - 5555:5432 # the port mapped to localhost:the port inside the container
+            # localhost:5555 <-- the 'address' of the server
+            # <ip-address-of-the-container>:5432 <-- also the 'address' of the server
+
+        environment:
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=1234
+            - POSTGRES_DB=tweets
+
+    mongodb:
+        image: mongo
+        ports:
+            - 27017:27017
+    
+    etl:
+        build: etl_job/
+        volumes:
+            - ./etl_job/:/app/
+        depends_on:
+            - mongodb
+            - postgresdb
+
+    tweet_collector:
+        build: tweet_collector/
+        volumes:
+            - ./tweet_collector/:/app/
+        depends_on:
+            - mongodb
+    
+    slack_bot:
+        build: slack_bot/
+        volumes:
+            - ./slack_bot/:/app/
+        depends_on:
+            - postgresdb
+        
